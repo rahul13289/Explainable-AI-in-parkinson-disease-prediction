@@ -1,5 +1,10 @@
 # Explainable-AI-in-parkinson-disease-prediction
 The dataset was imported, cleaned, explored, ML algorithms are applied and explainable AI was implemented.
+
+Propsed archeitecture
+
+![image](https://github.com/rahul13289/Integration-of-Explainable-AI-and-Chatbot-for-Accurate-Parkinson-Disease-Prediction/assets/97829880/0ba8a25a-523f-4b89-9448-64099e0d9bcf)
+
 About Dataset
 Context
 Parkinson’s Disease (PD) is a degenerative neurological disorder marked by decreased dopamine levels in the brain. It manifests itself through a deterioration of movement, including the presence of tremors and stiffness. There is commonly a marked effect on speech, including dysarthria (difficulty articulating sounds), hypophonia (lowered volume), and monotone (reduced pitch range). Additionally, cognitive impairments and changes in mood can occur, and risk of
