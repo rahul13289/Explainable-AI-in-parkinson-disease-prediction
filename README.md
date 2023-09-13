@@ -3,7 +3,7 @@ The dataset was imported, cleaned, explored, ML algorithms are applied and expla
 
 Propsed archeitecture
 
-![image](https://github.com/rahul13289/Integration-of-Explainable-AI-and-Chatbot-for-Accurate-Parkinson-Disease-Prediction/assets/97829880/0ba8a25a-523f-4b89-9448-64099e0d9bcf)
+![image](https://github.com/rahul13289/Integration-of-Explainable-AI-and-Chatbot-for-Accurate-Parkinson-Disease-Prediction/assets/97829880/846845dc-091f-4dbb-b43c-f4c4d15f9c49)
 
 About Dataset
 Context
